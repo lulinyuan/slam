@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test.dir/eigenMatrix.o  -o test -rdynamic 

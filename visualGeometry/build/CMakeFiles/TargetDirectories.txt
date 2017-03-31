@@ -1,0 +1,3 @@
+/home/lulin/work_space_slam/myprogram/visualGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/lulin/work_space_slam/myprogram/visualGeometry/build/CMakeFiles/edit_cache.dir
+/home/lulin/work_space_slam/myprogram/visualGeometry/build/CMakeFiles/visualizeGeometry.dir

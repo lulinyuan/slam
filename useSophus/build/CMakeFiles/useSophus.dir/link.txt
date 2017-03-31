@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/useSophus.dir/useSophus.o  -o useSophus -rdynamic /home/lulin/work_space_slam/slambook-master/3rdparty/Sophus/build/libSophus.so -Wl,-rpath,/home/lulin/work_space_slam/slambook-master/3rdparty/Sophus/build 
